@@ -1,0 +1,25 @@
+{
+  "name": "printf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "posttest": "eslint ."
+  },
+  "keywords": [
+    "printf",
+    "format",
+    "string"
+  ],
+  "author": "Markus Daghall",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.1.0",
+    "@eslint/js": "^9.9.0",
+    "chai": "^4.5.0",
+    "eslint": "^8.57.0",
+    "globals": "^15.9.0",
+    "mocha": "^10.7.3"
+  }
+}

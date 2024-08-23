@@ -1,0 +1,12 @@
+{
+  "extends": "../.eslintrc.json",
+  "rules": {
+    "no-unused-expressions": 0
+  },
+  "globals": {
+    "expect": false,
+    "beforeEach": false,
+    "describe": false,
+    "it": false
+  }
+}
